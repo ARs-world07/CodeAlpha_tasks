@@ -40,7 +40,7 @@ The calculated age will appear below the button. If there's an issue with your i
 ├── index.html        # Main HTML file containing the structure, styles, and JavaScript
 └── README.md         # This README file
 
-Make your changes.
+Make your changes .
 
 Commit your changes (git commit -m 'Add new feature').
 
