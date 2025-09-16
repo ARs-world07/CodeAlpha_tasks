@@ -15,7 +15,7 @@ Responsive Design: Adapts to various screen sizes (mobile, tablet, desktop) for 
 
 Clear Error Messages: Provides helpful messages for invalid inputs.
 
-Technologies Used
+Technologies Used :
 
 
 HTML5: For structuring the web page and input form.
