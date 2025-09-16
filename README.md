@@ -1,6 +1,7 @@
 # CodeAlpha_task_1
 Age Calculator
 
+
 A simple, responsive web-based age calculator that determines your age in years, months, and days based on your date of birth.
 Features
 
@@ -15,6 +16,8 @@ Responsive Design: Adapts to various screen sizes (mobile, tablet, desktop) for 
 Clear Error Messages: Provides helpful messages for invalid inputs.
 
 Technologies Used
+
+
 HTML5: For structuring the web page and input form.
 
 CSS3 (Tailwind CSS): For modern, responsive styling and layout.
