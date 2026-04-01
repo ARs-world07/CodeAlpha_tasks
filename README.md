@@ -39,9 +39,3 @@ The calculated age will appear below the button. If there's an issue with your i
 .
 ├── index.html        # Main HTML file containing the structure, styles, and JavaScript
 └── README.md         # This README file
-
-Commit your changes (git commit -m 'Add new feature').
-
-Push to the branch (git push origin feature/your-feature-name).
-
-Open a Pull Request.
